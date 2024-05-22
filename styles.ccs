@@ -2,11 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: black; 
+    background-color: black; /* Background color changed to black */
+    color: white; /* Text color changed to white */
 }
 
 header {
-    background-color: #333; 
+    background-color: #333; /* Dark gray background for header */
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -45,14 +46,14 @@ input, select, button {
 }
 
 button {
-    background-color: #333; 
+    background-color: #333; /* Dark gray background for button */
     color: white;
     border: none;
     cursor: pointer;
 }
 
 footer {
-    background-color: #333; 
+    background-color: #333; /* Dark gray background for footer */
     color: white;
     text-align: center;
     padding: 1em 0;
